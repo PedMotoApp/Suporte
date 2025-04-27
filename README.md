@@ -35,7 +35,7 @@ Whether for personal shipments or automated business deliveries, **MotokApp is t
 
 📄 **[Aplicativo iOS Cliente](https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197)**  
 
-📄 **[Aplicativo iOS Profissional]([https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197](https://apps.apple.com/us/app/pedmoto-para-motoristas/id1585229317))**  
+📄 **[Aplicativo iOS Profissional](https://apps.apple.com/us/app/pedmoto-para-motoristas/id1585229317)**  
 
 📄 **[Aplicativo Web Cliente](https://pedmotoclient.web.app)**  
 
