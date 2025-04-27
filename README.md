@@ -23,15 +23,24 @@ Whether for personal shipments or automated business deliveries, **MotokApp is t
 ---
 
 ## **🔗 Links**  
+## **🔗 Links**
 
 📂 **[Pasta Compartilhada](https://drive.google.com/drive/folders/17KbAg62j9fbS0gGz7YU4Z9jzePhxzan9?usp=sharing)**  
+
 📄 **[Documentação / Docs](https://drive.google.com/file/d/1uzYwZf44W_6r6yTHlnjpCYV6jHSIzQEd/view?usp=drive_link)**  
-📄 **[Youtube](https://www.youtube.com/watch?v=YcWT36EF-SA&list=PL3CNm1uwGm_DoiYCl8frXfTUc0ArLFE4P)**  
+
+📄 **[YouTube](https://www.youtube.com/watch?v=YcWT36EF-SA&list=PL3CNm1uwGm_DoiYCl8frXfTUc0ArLFE4P)**  
+
 📄 **[Recrutamento de Afiliados](https://app-vlc.hotmart.com/affiliate-recruiting/view/8075P99319042)**  
-📄 **[Aplicativo iOS Cliente](https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197)**
-📄 **[Aplicativo iOS Profissional](https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197)**
-📄 **[Aplicativo Web Cliente](pedmotoclient.web.app)**
-📄 **[Aplicativo Web Profissional](pedmotopro.web.app)**
+
+📄 **[Aplicativo iOS Cliente](https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197)**  
+
+📄 **[Aplicativo iOS Profissional]([https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197](https://apps.apple.com/us/app/pedmoto-para-motoristas/id1585229317))**  
+
+📄 **[Aplicativo Web Cliente](https://pedmotoclient.web.app)**  
+
+📄 **[Aplicativo Web Profissional](https://pedmotopro.web.app)**  
+
 
 
 ---
