@@ -2,7 +2,7 @@
 
 ## 🇧🇷 Português
 
-O **PedMoto** é uma **plataforma de mototáxi digital** que conecta passageiros a **mototaxistas profissionais** de forma direta, rápida e segura. Desenvolvida para atender às necessidades de mobilidade urbana, a plataforma permite que clientes solicitem corridas com poucos toques, enquanto mototaxistas operam com **autonomia total**, sem intermediários. 
+O **PedMoto** é uma **plataforma de mototáxi digital** que conecta passageiros a **mototaxistas profissionais** de forma direta, rápida e segura. Desenvolvida para atender às necessidades de *mobilidade urbana*, a plataforma permite que clientes solicitem corridas com poucos toques, enquanto mototaxistas operam com **autonomia total**, sem intermediários.
 
 Ideal para empreendedores que desejam lançar ou expandir negócios de mototáxi, o **PedMoto** oferece uma *licença white label* personalizável, permitindo implementar a plataforma com a identidade visual do cliente (logo, cores e branding). A solução é perfeita para cidades pequenas, parcerias com comércios locais ou expansão de serviços de mobilidade.
 
@@ -10,7 +10,7 @@ Ideal para empreendedores que desejam lançar ou expandir negócios de mototáxi
 
 1. **Solicitação Instantânea**: Chame mototaxistas próximos com poucos toques.
 2. **Estimativa de Tarifa e Rota**: Visualize o trajeto e o valor antes de confirmar.
-3. **сию: **Rastreamento em Tempo Real**: Acompanhe o percurso diretamente no aplicativo.
+3. **Rastreamento em Tempo Real**: Acompanhe o percurso diretamente no aplicativo.
 4. **Histórico de Corridas**: Consulte o registro detalhado de todas as corridas realizadas.
 5. **Avaliação Mútua**: Sistema de avaliações para garantir qualidade e confiança.
 6. **Cadastro Seguro**: Verificação rigorosa de documentos e antecedentes dos mototaxistas.
@@ -19,7 +19,7 @@ Ideal para empreendedores que desejam lançar ou expandir negócios de mototáxi
 
 - **Integrações Avançadas**: Conexão com plataformas de pagamento para transações rápidas e seguras.
 - **Agente de IA no WhatsApp**: Chatbot inteligente que responde a clientes com texto e áudio, acessando todas as informações da plataforma.
-- **Licença White Label**: Personalize a plataforma com logo, cores e identidade visual do cliente, com suporte opcional para branding.
+- **Licença White Label**: Personalize a plataforma com logo, cores e identidade visual, com suporte opcional para branding via ferramentas de design.
 - **Conformidade com LGPD**: Sistema projetado para proteger dados sensíveis, atendendo às exigências legais.
 
 ### Licença White Label
@@ -38,7 +38,7 @@ Ideal para empreendedores que desejam lançar ou expandir negócios de mototáxi
 ### Casos de Uso
 
 - **Cidades Pequenas**: Ofereça serviços de mototáxi em regiões com baixa cobertura de transporte.
-- **Parcerias Comerciais**: Integre com comércios locais para corridas sob demanda.
+- **Parcerias Comerciais**: Integre com comércios locais para corridas sob demanda (ex.: farmácias, restaurantes).
 - **Empreendedores**: Lance um negócio de mototáxi com marca própria, usando a licença white label.
 
 ### Como Adquirir
@@ -59,7 +59,7 @@ O **PedMoto** é a solução ideal para mobilidade urbana *ágil*, *confiável* 
 
 ## 🇺🇸 English
 
-**PedMoto** is a **digital mototaxi platform** that directly connects passengers to **professional mototaxi drivers**, offering fast, secure, and efficient services. Designed for urban mobility, the platform enables clients to request rides with a few taps, while drivers operate with **full autonomy**, without intermediaries.
+**PedMoto** is a **digital mototaxi platform** that directly connects passengers to **professional mototaxi drivers**, offering *fast*, *secure*, and *efficient* services. Designed for *urban mobility*, the platform enables clients to request rides with a few taps, while drivers operate with **full autonomy**, without intermediaries.
 
 Perfect for entrepreneurs looking to launch or expand mototaxi businesses, **PedMoto** offers a customizable *white label license*, allowing deployment with the client’s visual identity (logo, colors, and branding). The solution is ideal for small cities, partnerships with local businesses, or scaling mobility services.
 
@@ -95,7 +95,7 @@ Perfect for entrepreneurs looking to launch or expand mototaxi businesses, **Ped
 ### Use Cases
 
 - **Small Cities**: Offer mototaxi services in areas with limited transportation options.
-- **Business Partnerships**: Integrate with local businesses for on-demand rides.
+- **Business Partnerships**: Integrate with local businesses for on-demand rides (e.g., pharmacies, restaurants).
 - **Entrepreneurs**: Launch a branded mototaxi business using the white label license.
 
 ### How to Acquire
@@ -114,10 +114,21 @@ Acquirers receive **comprehensive documentation** and **technical support** for 
 
 ---
 
+## 🔗 Links
+
+- 📄 **[Mercado Livre](https://produto.mercadolivre.com.br/MLB-5354588534-pedmoto-plataforma-para-motofrete-mototaxi-_JM)**  
+- 📄 **[Documentação / Docs](https://www.canva.com/design/DAGk5W9SCUE/liIeNMSdJmEYBgdVJQukrg/view?utm_content=DAGk5W9SCUE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h536882e44b)**  
+- 📄 **[YouTube](https://www.youtube.com/watch?v=YcWT36EF-SA&list=PL3CNm1uwGm_DoiYCl8frXfTUc0ArLFE4P)**  
+- 📄 **[Recrutamento de Afiliados](https://app-vlc.hotmart.com/affiliate-recruiting/view/8075P99319042)**  
+- 📄 **[Aplicativo iOS Cliente](https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197)**  
+- 📄 **[Aplicativo iOS Profissional](https://apps.apple.com/us/app/pedmoto-para-motoristas/id1585229317)**  
+- 📄 **[Aplicativo Web Cliente](https://pedmotoclient.web.app)**  
+- 📄 **[Aplicativo Web Profissional](https://pedmotopro.web.app)**  
+
 ## 🚀 Recursos Adicionais
 
 - 🏍️ **Plataforma de Mototáxi**: Solução completa para mobilidade urbana.
-- 📲 **Aplicativos Disponíveis**: Apps para clientes e mototaxistas, com interface intuitiva.
+- 📲 **Aplicativos Disponíveis**: Apps intuitivos para clientes e mototaxistas.
 - 📈 **Documentação Completa**: Guias detalhados para implementação e personalização.
 - 🤝 **Programa de Afiliados**: Oportunidades para parceiros e revendedores.
 - 🛠️ **Suporte Técnico**: Assistência contínua para adquirentes da licença.
