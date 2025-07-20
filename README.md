@@ -123,7 +123,7 @@ Acquirers receive **comprehensive documentation** and **technical support** for 
 - 📄 **[Aplicativo iOS Cliente](https://apps.apple.com/us/app/pedmoto-para-clientes/id1585229197)**  
 - 📄 **[Aplicativo iOS Profissional](https://apps.apple.com/us/app/pedmoto-para-motoristas/id1585229317)**  
 - 📄 **[Aplicativo Web Cliente](https://pedmotoclient.web.app)**  
-- 📄 **[Aplicativo Web Profissional](https://pedmotopro.web.app)**  
+- 📄 **[Aplicativo Android]([https://pedmotopro.web.app](https://drive.google.com/drive/folders/1dXguiuHaEMr9Wq0pnAbpj_PpV4COXqeq?usp=drive_link))**  
 
 ## 🚀 Recursos Adicionais
 
